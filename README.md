@@ -1,5 +1,4 @@
 # Projeto_Brasileirao_Analise_Dados
-Brasileirao (2012 - 2022)
 
 **⚽ Dashboard Brasileirão (2012 - 2022)**
 
